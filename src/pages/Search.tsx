@@ -6,7 +6,7 @@ import { Text } from "@chakra-ui/react";
 const Search = () => {
   const navigate = useNavigate();
 
-  const handleComplete = (data) => {
+  const handleComplete = (data: any) => {
     const address = getAddress(data);
     navigate("/", {
       state: {

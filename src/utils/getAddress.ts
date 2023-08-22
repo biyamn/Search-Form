@@ -1,4 +1,4 @@
-export const getAddress = (data) => {
+export const getAddress = (data: any) => {
   let extraAddress = "";
   let address = data.address;
 
