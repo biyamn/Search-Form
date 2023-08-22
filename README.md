@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src='https://github.com/biyamn/UP/assets/101965666/859f61a1-b810-4da7-97f0-e84f67383854' width="50%"/>
-  <h4>블로그 포스팅: </h4>
+  <h4>블로그 포스팅: https://velog.io/@hamham/카카오-API-주소-찾기</h4>
 </div>
 
 <br>
