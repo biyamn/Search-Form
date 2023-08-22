@@ -7,19 +7,19 @@
 
 <br>
 
+## 프로젝트 소개
+
+카카오API를 활용하여 만든 주소 입력 폼입니다.
+<img src='https://github.com/biyamn/UP/assets/101965666/7b1b09f3-6c74-41ed-a8a3-040b96c14934'/>
+
+<br>
+
 ## 프로젝트 실행 방법
 
 ```
 $ npm install
 $ npm run dev
 ```
-
-<br>
-
-## 프로젝트 소개
-
-카카오API를 활용하여 만든 주소 입력 폼입니다.
-<img src='https://github.com/biyamn/UP/assets/101965666/7b1b09f3-6c74-41ed-a8a3-040b96c14934'/>
 
 <br>
 
